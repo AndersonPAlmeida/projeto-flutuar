@@ -1,0 +1,48 @@
+body{
+   font-family: "Open Sans", sans-serif;
+   margin: 0;
+   text-align: center;
+}
+.main{
+   width: 626px;
+   margin: 0 auto 150px;
+}
+.main img {
+   margin-bottom: 51px;
+}
+h1{
+   font-size: 32px;
+   color: #3F3D56;
+   margin-bottom: 27px;
+}
+span{
+   color: #EE24FF;
+}
+P{
+   font-size: 15px;
+   color: #828282;
+   text-align: justify;
+}
+strong span{
+   color: #3F3D56;
+}
+.line {
+   width: 400px;
+   height: 0;
+   margin: 0 auto 20px;
+   border: 1px solid #ECEFF2;
+}
+#footer{
+   margin-top: 70px;
+}
+a{
+   text-decoration: none;
+   color: #3F3D56;
+   margin-left: 45px;
+}
+.wave img{
+   position: fixed;
+   bottom: 0;
+   right: 0;
+   width: 100vw;
+}
